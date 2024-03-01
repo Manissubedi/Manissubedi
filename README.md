@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manissubedi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c,c++ 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning **c,c++,CSS**
 - 📫 How to reach me subedimanish2060@gmail.com
   
 
